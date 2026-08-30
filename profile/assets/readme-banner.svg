@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-label="Kryon Labs">
+  <rect width="1280" height="360" fill="#f7ede2"/>
+  <path d="M0 0h1280v360H0z" fill="#f7ede2"/>
+  <g opacity=".18">
+    <path d="M0 72h1280M0 144h1280M0 216h1280M0 288h1280M80 0v360M160 0v360M240 0v360M320 0v360M400 0v360M480 0v360M560 0v360M640 0v360M720 0v360M800 0v360M880 0v360M960 0v360M1040 0v360M1120 0v360M1200 0v360" stroke="#b46a5a" stroke-width="1"/>
+  </g>
+  <rect x="58" y="46" width="1164" height="268" rx="18" fill="#fffcf7" stroke="#e6d5c4" stroke-width="2"/>
+  <g transform="translate(122 96)">
+    <rect x="0" y="0" width="168" height="168" rx="14" fill="#f4e6d6" stroke="#e0c4b6" stroke-width="2"/>
+    <rect x="36" y="36" width="34" height="34" rx="5" fill="#65558f"/>
+    <rect x="82" y="36" width="50" height="34" rx="5" fill="#2c7388"/>
+    <rect x="36" y="82" width="96" height="50" rx="6" fill="#b46a5a"/>
+    <path d="M53 107h62M84 60v44" stroke="#fffcf7" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(350 115)">
+    <text x="0" y="58" fill="#4a4038" font-family="Cormorant Garamond, Georgia, serif" font-size="74" font-weight="600">Kryon Labs</text>
+    <text x="3" y="104" fill="#9b8b7c" font-family="Noto Sans Mono, Menlo, monospace" font-size="25">native UI tools and portable cartridges</text>
+  </g>
+  <g transform="translate(988 90)" fill="none" stroke-width="2">
+    <rect x="0" y="0" width="74" height="74" rx="10" fill="#fffcf7" stroke="#e6d5c4"/>
+    <rect x="92" y="0" width="74" height="74" rx="10" fill="#fffcf7" stroke="#e6d5c4"/>
+    <rect x="0" y="92" width="74" height="74" rx="10" fill="#fffcf7" stroke="#e6d5c4"/>
+    <rect x="92" y="92" width="74" height="74" rx="10" fill="#fffcf7" stroke="#e6d5c4"/>
+    <path d="M23 37h28M37 23v28" stroke="#65558f" stroke-linecap="round"/>
+    <path d="M114 37h30" stroke="#2c7388" stroke-linecap="round"/>
+    <path d="M23 129h28M37 115v28" stroke="#b46a5a" stroke-linecap="round"/>
+    <path d="M114 118l30 22M144 118l-30 22" stroke="#4a4038" stroke-linecap="round"/>
+  </g>
+</svg>
