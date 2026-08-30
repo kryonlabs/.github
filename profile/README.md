@@ -4,13 +4,6 @@
 
 <br>
 
-<a href="https://kryonlabs.com">
-  <img src="assets/badge-website.svg" alt="Open kryonlabs.com" height="56">
-</a>
-<a href="https://github.com/kryonlabs">
-  <img src="assets/badge-github.svg" alt="Open Kryon Labs on GitHub" height="56">
-</a>
-
 # Kryon Labs
 
 **Native-first tools for small, portable software.**
@@ -29,6 +22,8 @@ structure that stays easy to inspect.
 | --- | --- |
 | [Kryon](https://github.com/kryonlabs/kryon) | C runtime, UI toolkit, `.kry` language tools, native builds, and portable KRB cartridges. |
 | [Krait](https://github.com/kryonlabs/krait) | Standalone IDE for editing, previewing, and building Kryon projects. |
+| [ktrem](https://github.com/kryonlabs/ktrem) | Standalone terminal application using Kryon for windowing, rendering, input, and platform integration. |
+| [Rill](https://github.com/kryonlabs/rill) | Kryon/libdraw desktop shell for Taiji and Plan 9. |
 | [Ksync](https://github.com/kryonlabs/ksync) | Stateless sync relay for Kryon apps, account keys, mirrored app data, and social APIs. |
 
 ## Principles
