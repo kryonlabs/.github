@@ -1,5 +1,16 @@
 <div align="center">
 
+<img src="assets/readme-banner.png" alt="Kryon Labs" width="100%">
+
+<br>
+
+<a href="https://kryonlabs.com">
+  <img src="assets/badge-website.svg" alt="Open kryonlabs.com" height="56">
+</a>
+<a href="https://github.com/kryonlabs">
+  <img src="assets/badge-github.svg" alt="Open Kryon Labs on GitHub" height="56">
+</a>
+
 # Kryon Labs
 
 **The network-native UI cartridge system.**
