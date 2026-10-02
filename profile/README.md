@@ -22,8 +22,8 @@ structure that stays easy to inspect.
 | --- | --- |
 | [Kryon](https://github.com/kryonlabs/kryon) | C runtime, UI toolkit, `.kry` language tools, native builds, and portable KRB cartridges. |
 | [Krait](https://github.com/kryonlabs/krait) | Standalone IDE for editing, previewing, and building Kryon projects. |
-| [ktrem](https://github.com/kryonlabs/ktrem) | Standalone terminal application using Kryon for windowing, rendering, input, and platform integration. |
-| [Rill](https://github.com/kryonlabs/rill) | Kryon/libdraw desktop shell for Taiji and Plan 9. |
+| [t9](https://github.com/taijiosnet/t9) | TaijiOS terminal application using Kryon for windowing, rendering, input, and platform integration. |
+| [Rill](https://github.com/taijiosnet/rill) | TaijiOS desktop shell using Kryon/libdraw for Taiji and Plan 9. |
 | [Ksync](https://github.com/kryonlabs/ksync) | Stateless sync relay for Kryon apps, account keys, mirrored app data, and social APIs. |
 
 ## Principles
